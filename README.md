@@ -1,0 +1,2 @@
+# Text-Message-Encryption-and-Decryption
+The aim of this project is to understand and work on encryption and decryption, both methods are based on Caesar cipher algorithm. The idea is to create a file that contains an English based string, then the user will be able to choose whether to do encryption or decryption on the string based on a specific shift value calculated from the string, the shift value is calculated by finding the frequency for each character in the words of the string then modulo 26.
